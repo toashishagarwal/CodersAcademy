@@ -13,6 +13,8 @@ Google DeepResearch | Find best Lab test deals using DeepResearch use case |http
 Google Stitch | Create UI front ends from text in mins |https://www.youtube.com/watch?v=C1mO8z0E7dM|
 Julian AI | Create visualizations from Text in mins |https://www.youtube.com/watch?v=tm02Lf9WbWU|
 Gemini Canvas | Create visualizations, games, quiz from Text in mins |https://www.youtube.com/watch?v=nhu6DZbfeM8|
+Langflow-Part 1 | Installation & local env setup |https://youtu.be/-DSoN5So_GY|
+Langflow-Part 2 | Create a document analyer and dmeo |https://youtu.be/JZvXke26Ues|
 
 
 
