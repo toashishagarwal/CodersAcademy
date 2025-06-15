@@ -16,6 +16,7 @@ Gemini Canvas | Create visualizations, games, quiz from Text in mins |https://ww
 Langflow-Part 1 | Installation & local env setup |https://youtu.be/-DSoN5So_GY|
 Langflow-Part 2 | Create a document analyer and dmeo |https://youtu.be/JZvXke26Ues|
 Vibe Coding Tutorial | Create a payment app LIVE |https://youtu.be/IuWwlVCv5Ak|
+LangGraph & Langsmith Tutorial | How to get started with Langgraph & Langsmith |https://youtu.be/vhKM27MOgME|
 
 
 
