@@ -18,6 +18,8 @@ Langflow-Part 2 | Create a document analyer and dmeo |https://youtu.be/JZvXke26U
 Vibe Coding Tutorial | Create a payment app LIVE |https://youtu.be/IuWwlVCv5Ak|
 LangGraph & Langsmith Tutorial | How to get started with Langgraph & Langsmith |https://youtu.be/vhKM27MOgME|
 Chronicle Tutorial | Text to presentation in mins |https://youtu.be/jTi_cRbet6k?si=eb4tDcqXPmyOaMMP|
+Ollama Killer-JanAI | Run LLMs locally |https://youtu.be/y6lj2PwvIhk|
+
 
 
 
