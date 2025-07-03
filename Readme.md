@@ -20,6 +20,8 @@ LangGraph & Langsmith Tutorial | How to get started with Langgraph & Langsmith |
 Chronicle Tutorial | Text to presentation in mins |https://youtu.be/jTi_cRbet6k?si=eb4tDcqXPmyOaMMP|
 Ollama Killer-JanAI | Run LLMs locally |https://youtu.be/y6lj2PwvIhk|
 Build your own Photo Filters | Computer Vision tutorial |https://youtu.be/lJPCjL8XyaE|
+UV or PIP | Best python package managers |https://youtu.be/AR7nMmAfnFg?si=wsYqijWRGEqGHUqb|
+
 
 
 
