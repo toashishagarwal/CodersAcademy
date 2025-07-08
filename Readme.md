@@ -22,6 +22,8 @@ Ollama Killer-JanAI | Run LLMs locally |https://youtu.be/y6lj2PwvIhk|
 Build your own Photo Filters | Computer Vision tutorial |https://youtu.be/lJPCjL8XyaE|
 UV or PIP | Best python package managers |https://youtu.be/AR7nMmAfnFg?si=wsYqijWRGEqGHUqb|
 Poe | AI models aggregator |https://youtu.be/VcO1qKsDYkc?si=Og-mOysHBlRrZgi5|
+SunoAI | Text to Music AI |https://youtu.be/_cCGtt-C-rg|
+
 
 
 
