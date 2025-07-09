@@ -23,6 +23,8 @@ Build your own Photo Filters | Computer Vision tutorial |https://youtu.be/lJPCjL
 UV or PIP | Best python package managers |https://youtu.be/AR7nMmAfnFg?si=wsYqijWRGEqGHUqb|
 Poe | AI models aggregator |https://youtu.be/VcO1qKsDYkc?si=Og-mOysHBlRrZgi5|
 SunoAI | Text to Music AI |https://youtu.be/_cCGtt-C-rg|
+Together We Shine | AI composed music video |https://youtu.be/DjTMN6YDyQQ|
+
 
 
 
