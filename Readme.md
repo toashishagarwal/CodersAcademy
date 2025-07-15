@@ -25,6 +25,7 @@ Poe | AI models aggregator |https://youtu.be/VcO1qKsDYkc?si=Og-mOysHBlRrZgi5|
 SunoAI | Text to Music AI |https://youtu.be/_cCGtt-C-rg|
 Together We Shine | AI composed music video |https://youtu.be/DjTMN6YDyQQ|
 Scira AI | Perplexity Alternative: AI Search Engine from India |https://youtu.be/atB_wEgjmKQ|
+Gemini CLI | Command line AI |https://youtu.be/5kXhmU_vHvc|
 
 
 
