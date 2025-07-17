@@ -1,4 +1,4 @@
-
+<img width="254" height="49" alt="image" src="https://github.com/user-attachments/assets/641b6a72-e3d7-4fc9-928b-ddcda087e421" />
 
 ![CodersAcademy Banner](/img/banner.png)
 
@@ -26,6 +26,8 @@ SunoAI | Text to Music AI |https://youtu.be/_cCGtt-C-rg|
 Together We Shine | AI composed music video |https://youtu.be/DjTMN6YDyQQ|
 Scira AI | Perplexity Alternative: AI Search Engine from India |https://youtu.be/atB_wEgjmKQ|
 Gemini CLI | Command line AI |https://youtu.be/5kXhmU_vHvc|
+DeepEval | Unit Testing framework AI apps |https://youtu.be/ZHiJ12MhfQ8|
+
 
 
 
