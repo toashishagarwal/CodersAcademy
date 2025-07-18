@@ -27,6 +27,7 @@ Together We Shine | AI composed music video |https://youtu.be/DjTMN6YDyQQ|
 Scira AI | Perplexity Alternative: AI Search Engine from India |https://youtu.be/atB_wEgjmKQ|
 Gemini CLI | Command line AI |https://youtu.be/5kXhmU_vHvc|
 DeepEval | Unit Testing framework AI apps |https://youtu.be/ZHiJ12MhfQ8|
+KimiK2 | Open source LLM model |https://youtu.be/gJsYq49LJII|
 
 
 
