@@ -30,6 +30,7 @@ DeepEval | Unit Testing framework AI apps |https://youtu.be/ZHiJ12MhfQ8|
 KimiK2 | Open source LLM model |https://youtu.be/gJsYq49LJII|
 Kiro IDE | Amazon's free AI IDE |https://youtu.be/-oU2VehmeJA |
 Perplexity Finance | Automation Demo of Tasks and Spaces |https://youtu.be/wT9mlamx-rQ |
+GPT OSS model | Demo & Review |https://youtu.be/7Cbs7yBjiMk |
 
 
 
