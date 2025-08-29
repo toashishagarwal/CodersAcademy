@@ -32,7 +32,7 @@ Kiro IDE | Amazon's free AI IDE |https://youtu.be/-oU2VehmeJA |
 Perplexity Finance | Automation Demo of Tasks and Spaces |https://youtu.be/wT9mlamx-rQ |
 GPT OSS model | Demo & Review |https://youtu.be/7Cbs7yBjiMk |
 LangExtract | Demo & Review |https://youtu.be/T8T3_m9KfGg |
-
+Langchain4j | Demo & Review |https://youtu.be/3jtUlbQduKc|
 
 
 
